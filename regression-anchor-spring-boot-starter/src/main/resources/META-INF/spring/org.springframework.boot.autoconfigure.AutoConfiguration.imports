@@ -1,0 +1,5 @@
+io.github.unstoppableworm.anchor.spring.AnchorAutoConfiguration
+io.github.unstoppableworm.anchor.spring.MyBatisAnchorAutoConfiguration
+io.github.unstoppableworm.anchor.spring.MongoAnchorAutoConfiguration
+io.github.unstoppableworm.anchor.spring.HttpAnchorAutoConfiguration
+io.github.unstoppableworm.anchor.spring.FeignAnchorAutoConfiguration
